@@ -1,7 +1,7 @@
 //ads
 textures/ad_content/1x1
 {   
-    qer_editorimage textures/thunderd/thunderd_yellow_1x1.jpg
+    qer_editorimage textures/mybrand/mybrand_square_1x1.jpg
     nopicmip
 	{
 		map textures/mybrand/mybrand_square_1x1.jpg
